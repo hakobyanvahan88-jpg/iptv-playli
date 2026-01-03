@@ -1,0 +1,106 @@
+#EXTM3U  
+  
+#EXTINF:-1 tvg-id="armenia-h1-hd" tvg-logo="https://epg.one/img/2060.png" group-title="Армения",**Առաջին** **Ալիք** HD  
+https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8  
+  
+#EXTINF:-1 tvg-id="armenia-news-hd" tvg-logo="https://epg.one/img/5930.png" group-title="Армения",**Լուրեր** HD  
+https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8  
+  
+#EXTINF:-1 tvg-id="usa-armenia-hd" tvg-logo="https://epg.one/img/5934.png" group-title="Армения",USA Armenia HD  
+https://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8  
+  
+#EXTINF:-1 tvg-id="armenia-h2" tvg-logo="https://epg.one/img/2062.png" group-title="Армения",H2  
+https://45.159.74.22/ArmeniansecondTV/tracks-v1a1/mono.m3u8  
+  
+#EXTINF:-1 tvg-id="armenia-tv-hd" tvg-logo="https://i.imgur.com/ZaWExUo.png" group-title="Армения",Armenia TV HD  
+https://45.159.74.22/Armeniatv/tracks-v1a1/mono.m3u8  
+  
+#EXTINF:-1 tvg-id="free-news-hd" tvg-logo="https://epg.one/img/5940.png" group-title="Армения",Free News HD  
+https://45.159.74.22/ArTV/tracks-v1a1/mono.m3u8  
+  
+#EXTINF:-1 tvg-id="azatutyun-tv" tvg-logo="https://epg.one/img/2385.png" group-title="Армения",Azatutyun TV  
+https://45.159.74.22/Channel_130/tracks-v1a1/mono.m3u8  
+  
+#EXTINF:-1 tvg-id="kentron-tv" tvg-logo="https://epg.one/img/2065.png" group-title="Армения",Kentron  
+https://45.159.74.22/Kentron/tracks-v1a1/mono.m3u8  
+  
+#EXTINF:-1 tvg-id="atv-armenia" tvg-logo="https://epg.one/img/2067.png" group-title="Армения",ATV  
+https://45.159.74.22/ATV/tracks-v1a1/mono.m3u8  
+  
+#EXTINF:-1 tvg-id="tava-tv" tvg-logo="https://epg.one/img/7765.png" group-title="Армения",TAVA TV  
+https://45.159.74.22/TavaTv/tracks-v1a1/mono.m3u8  
+  
+#EXTINF:-1 tvg-id="lavfakh-tv" tvg-logo="https://i.imgur.com/ybig9oZ.png" group-title="Армения",LAVFAKH  
+https://45.159.74.22/Filmzone/tracks-v1a1/mono.m3u8  
+  
+#EXTINF:-1 tvg-id="hingerord-aliq" tvg-logo="https://epg.one/img/2372.png" group-title="Армения",Hingerord Aliq  
+https://45.159.74.22/Ararat/tracks-v1a1/mono.m3u8  
+  
+#EXTINF:-1 tvg-id="shoghakat-tv" tvg-logo="https://epg.one/img/2071.png" group-title="Армения",Shoghakat  
+https://45.159.74.22/ShoghakatTV/tracks-v1a1/mono.m3u8  
+  
+#EXTINF:-1 tvg-id="artn-tv" tvg-logo="https://i.imgur.com/WTTAbAc.png" group-title="Армения",ARTN TV  
+https://45.11.139.43:8555/artn/index.m3u8  
+  
+#EXTINF:-1 tvg-id="shant-tv" tvg-logo="https://epg.one/img/2068.png" group-title="Армения",Shant TV  
+http://ott-cdn.ucom.am/s3/04.m3u8  
+  
+#EXTINF:-1 tvg-id="armenia-azatutyun" tvg-logo="https://epg.one/img/2385.png" group-title="Армения",Azatutyun TV  
+http://ott-cdn.ucom.am/s3/04.m3u8  
+  
+#EXTINF:-1 tvg-id="armenia-ararat" tvg-logo="https://epg.one/img/2069.png" group-title="Армения",Ararat  
+http://ott-cdn.ucom.am/s6/04.m3u8  
+  
+#EXTINF:-1 tvg-id="armenia-yerkir" tvg-logo="https://epg.one/img/2070.png" group-title="Армения",Yerkir Media  
+http://ott-cdn.ucom.am/s7/04.m3u8  
+  
+#EXTINF:-1 tvg-id="armenia-armnews" tvg-logo="https://epg.one/img/5931.png" group-title="Армения",ArmNews  
+http://ott-cdn.ucom.am/s11/04.m3u8  
+  
+#EXTINF:-1 tvg-id="armenia-hay-kino" tvg-logo="https://epg.one/img/2072.png" group-title="Армения",Hay Kino  
+http://ott-cdn.ucom.am/s22/04.m3u8  
+  
+#EXTINF:-1 tvg-id="armenia-kinoman" tvg-logo="https://epg.one/img/2073.png" group-title="Армения",Kinoman ATV  
+http://ott-cdn.ucom.am/s94/04.m3u8  
+  
+#EXTINF:-1 tvg-id="armenia-upremium" tvg-logo="https://epg.one/img/2074.png" group-title="Армения",U!Premium  
+http://ott-cdn.ucom.am/s83/04.m3u8  
+  
+#EXTINF:-1 tvg-id="armenia-hay-atv" tvg-logo="https://epg.one/img/2075.png" group-title="Армения",Hay ATV  
+http://ott-cdn.ucom.am/s73/04.m3u8  
+  
+#EXTINF:-1 tvg-id="armenia-jantv" tvg-logo="https://epg.one/img/2076.png" group-title="Армения",Jan TV  
+http://ott-cdn.ucom.am/s42/04.m3u8  
+  
+#EXTINF:-1 tvg-id="armenia-song" tvg-logo="https://epg.one/img/2077.png" group-title="Армения",SONG ARMENIA  
+https://songtvam.ru:4443/lhigh/playlist.m3u8  
+  
+#EXTINF:-1 tvg-id="armenia-comedy" tvg-logo="https://epg.one/img/2078.png" group-title="Армения",Armenia Comedy  
+http://ott-cdn.ucom.am/s32/04.m3u8  
+  
+#EXTINF:-1 tvg-id="armenia-filmzone" tvg-logo="https://epg.one/img/2079.png" group-title="Армения",Filmzone ATV  
+http://ott-cdn.ucom.am/s48/04.m3u8  
+  
+#EXTINF:-1 tvg-id="armenia-cineman" tvg-logo="https://epg.one/img/2080.png" group-title="Армения",Cineman  
+http://ott-cdn.ucom.am/s66/04.m3u8  
+  
+#EXTINF:-1 tvg-id="armenia-bazmoc" tvg-logo="https://epg.one/img/2081.png" group-title="Армения",Bazmoc ATV  
+http://ott-cdn.ucom.am/s74/04.m3u8  
+  
+#EXTINF:-1 tvg-id="armenia-h3" tvg-logo="https://epg.one/img/2082.png" group-title="Армения",H3  
+http://ott-cdn.ucom.am/s12/04.m3u8  
+  
+#EXTINF:-1 tvg-id="armenia-tava" tvg-logo="https://epg.one/img/2083.png" group-title="Армения",Tava ATV  
+http://ott-cdn.ucom.am/s53/04.m3u8  
+  
+#EXTINF:-1 tvg-id="armenia-tbn" tvg-logo="https://epg.one/img/2084.png" group-title="Армения",TBN ARMENIA  
+http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8  
+  
+#EXTINF:-1 tvg-id="armenia-shoxakat" tvg-logo="https://epg.one/img/2085.png" group-title="Армения",Shoxakat  
+http://ott-cdn.ucom.am/s13/04.m3u8  
+  
+#EXTINF:-1 tvg-id="armenia-1tv" tvg-logo="https://epg.one/img/2086.png" group-title="Армения",1TV  
+http://ott-cdn.ucom.am/s84/04.m3u8  
+  
+#EXTINF:-1 tvg-id="armenia-zoo" tvg-logo="https://epg.one/img/2087.png" group-title="Армения",Zoo TV  
+http://ott-cdn.ucom.am/s92/04.m3u8  
