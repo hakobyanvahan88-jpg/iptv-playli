@@ -1,9 +1,9 @@
 #EXTM3U  
   
-#EXTINF:-1 tvg-id="armenia-h1-hd" tvg-logo="https://epg.one/img/2060.png" group-title="Армения",**Առաջին** **Ալիք** HD  
+#EXTINF:-1 tvg-id="armenia-h1-hd" tvg-logo="https://epg.one/img/2060.png" group-title="Армения",H1 HD  
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8  
   
-#EXTINF:-1 tvg-id="armenia-news-hd" tvg-logo="https://epg.one/img/5930.png" group-title="Армения",**Լուրեր** HD  
+#EXTINF:-1 tvg-id="armenia-news-hd" tvg-logo="https://epg.one/img/5930.png" group-title="Армения", NEWS AR HD  
 https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8  
   
 #EXTINF:-1 tvg-id="usa-armenia-hd" tvg-logo="https://epg.one/img/5934.png" group-title="Армения",USA Armenia HD  
