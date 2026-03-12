@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>IPTV Player</title>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<style>
+body{background:black;color:white;text-align:center;font-family:Arial}
+video{width:90%;margin-top:20px}
+</style>
+</head>
+
+<body>
+
+<h1>📺 IPTV</h1>
+
+<video id="video" controls autoplay></video>
+
+<script>
+var video = document.getElementById('video');
+var src = "https://raw.githubusercontent.com/hakobyanvahan88-jpg/iptv-playli/main/arm%2088.m3u8";
+
+if(Hls.isSupported()){
+    var hls = new Hls();
+    hls.loadSource(src);
+    hls.attachMedia(video);
+}else{
+    video.src = src;
+}
+</script>
+
+</body>
+</html>
