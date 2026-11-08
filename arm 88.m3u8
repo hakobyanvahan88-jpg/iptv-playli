@@ -1,26 +1,74 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=“armenia-h1-hd” tvg-logo=“https://epg.one/img/2060.png” group-title=“Армения”,H1 HD
+#EXTINF:-1 tvg-id="armenia-h1-hd" tvg-logo="https://epg.one/img/2060.png" group-title="Армения",H1 HD
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 
-#EXTINF:-1 tvg-id=“ArmeniaPremium.am@SD” tvg-logo=”” group-title=“Movies” user-agent=“Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36”,Armenia Premium (720p)
+#EXTINF:-1 tvg-id="armenia-news-hd" tvg-logo="https://epg.one/img/5930.png" group-title="Армения",NEWS AR HD
+https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Armenia2.am@SD" tvg-logo="https://i.imgur.com/AXmXw9X.png" group-title="Армения",Armenia 2 (1080p)
+https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
+
+#EXTINF:-1 tvg-id="ArmeniaPremium.am@SD" tvg-logo="" group-title="Армения" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Armenia Premium (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/123/index.m3u8
 
-#EXTINF:-1 tvg-id=“ArmeniaTVSatellite.am@SD” tvg-logo=“https://i.imgur.com/UnoI5uM.png” group-title=“General” user-agent=“Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36”,Armenia TV Satellite (576p)
+#EXTINF:-1 tvg-id="ArmeniaTVSatellite.am@SD" tvg-logo="https://i.imgur.com/UnoI5uM.png" group-title="Армения" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Armenia TV Satellite (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/175/index.m3u8
 
-#EXTINF:-1 tvg-id=“ATV.am@SD” tvg-logo=“https://i.imgur.com/xrqFEou.png” group-title=“General” user-agent=“Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36”,ATV (1080p)
+#EXTINF:-1 tvg-id="ATV.am@SD" tvg-logo="https://i.imgur.com/xrqFEou.png" group-title="Армения" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",ATV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/36/index.m3u8
 
-#EXTINF:-1 tvg-id=“FirstChannelNews.am@SD” tvg-logo=“https://i.imgur.com/RlYJUH4.png” group-title=“News”,First Channel News (1080p)
+#EXTINF:-1 tvg-id="FirstChannelNews.am@SD" tvg-logo="https://i.imgur.com/RlYJUH4.png" group-title="Новости",First Channel News (1080p)
 https://amtvusdvr.tulix.tv/am3abr/index.m3u8
 
-#EXTINF:-1 tvg-id=“KentronTV.am@SD” tvg-logo=“https://i.imgur.com/eCaxBFn.png” group-title=“General” user-agent=“Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36”,Kentron TV (1080p)
+#EXTINF:-1 tvg-id="KentronTV.am@SD" tvg-logo="https://i.imgur.com/eCaxBFn.png" group-title="Армения" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Kentron TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/39/index.m3u8
 
-#EXTINF:-1 tvg-id=“ShantTV.am@SD” tvg-logo=“https://i.imgur.com/AyitGj7.png” group-title=””,Shant TV (1080p)
+#EXTINF:-1 tvg-id="ShantTV.am@SD" tvg-logo="https://i.imgur.com/AyitGj7.png" group-title="Армения",Shant TV (1080p)
 http://stream.mcquack.net/37/index.m3u8
+
+#EXTINF:-1 resolution=720x576 group-title="Армения",ARTN Shant
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+
+#EXTINF:-1 resolution=720x576 group-title="Армения",Song TV Armenia
+https://songtvam.ru:4443/high/playlist.m3u8
+
+#EXTINF:-1 resolution=720x576 group-title="Армения",High Vision Armenia
+http://204.174.104.71:88/HIGHVISION_WEB_1205/highvision/index.m3u8
+
+#EXTINF:-1 resolution=720x576 group-title="Армения",AABC Armenia
+http://204.174.104.71:88/AABC_WEB_1201/aabc/index.m3u8
+
+#EXTINF:-1 resolution=720x576 group-title="Армения",AMGA Tv Armenia
+http://204.174.104.71:88/AMGA_WEB_1202/amga/index.m3u8
+
+#EXTINF:-1 resolution=720x576 group-title="Армения",iArmeniaMusic HD
+http://livestream.usatv.com/hls/m3u8/iArmMusicHD.m3u8
+
+#EXTINF:-1 resolution=720x576 group-title="Армения",US Armenia Tv
+http://livestream.usatv.com/hls/m3u8/USARMENIA480.m3u8
+
+#EXTINF:-1 resolution=720x576 group-title="Армения",HorizonTv Armenia
+http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
+
+#EXTINF:-1 resolution=720x576 group-title="Армения",Vip Primere
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288412514/index.m3u8
+
+#EXTINF:-1 resolution=720x576 group-title="Армения",Vip Megahit
+https://hls-viasat.cdnvideo.ru/hls/relay/L_UDg0e/index.m3u8md5=aQJr8zCU2qyjrTrqnmqEQQ&e=1541405785&hls_proxy_host=97544926393025ab05ebfb4dc3486095
+
+#EXTINF:-1 resolution=720x576 group-title="Армения",tViasat Nature
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288391761/index.m3u8
+
+#EXTINF:-1 resolution=720x576 group-title="Армения",Viasat Golf
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288404097/index.m3u8
+
+#EXTINF:-1 resolution=720x576 group-title="Армения",Viasat Sport HD
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288421056/index.m3u8
+
+#EXTINF:-1 resolution=720x576 group-title="Армения",Fortuna Tv
+https://video-weaver.fra02.hls.ttvnw.net/v1/playlist/CoYErJPj3WjsuB57I4t-BElTOyaErk7TbH3FA-Rjehy1gRFm3QMRbOUROhfZpslvX_wg2hF3260V0vxhBihrV4oexUf9Gg-iNDOFkXI7h-VP2eT9LYBF1cINuOLKxWQOq--4JzDEq1DK9fJshPOK5BoZ15n1HGUdFNN8WgbkVmuoK613wY2y8kg9rvQk7hFbxvZHoBS6TMrWVnFplt2I9-Ldcpv3cxse_tc3Vo0XCGm1-PkAf2vKqc5E0dwDeYHNog-_h1zwYg04so75XElf9Gsuo_hHM0HYP8UemZ64tSmDVzbYDKb-riadZuK8XfXM4GtyG5A76W86-g62YwkiBbWKfot7cUFQNn_E8pE93X1DHImTg9r2KiRNl-KTXfeRpdtrb71TgZL5e4ga-zEWibi-jC2o2VNCRwct1ozELCqkhNzgyF9x2vEtM2N0t3qtnpfWjiqM1vBq5uurbAnEIvZPGmNthYtt2FWSqRSK3Q5QBIunulIXuZCfVLEUhyr4P-B-VI2CSed6GfZg-HGhNNQ1sRRjOiJphZmmUuP4h2qCE7T8yOreSstbfYzUNlYIK77U3JLJfrkRYhxMrlmm4GDCl9IpFslUDEEXF9PSQYvC9GlnLbN1MoX9xA6J8gUNw5-cdXfEwBE34r7F_JmsEb-t8CANe_MtefcAj6daos2h84KknIvmnkISEH9ZnO5TxyAbf7zgbv3eoo0aDGVHt6x4fXZTYsKb_Q.m3u8
